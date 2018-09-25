@@ -71,7 +71,7 @@ describe('Reducers', () => {
         isPrivate: false,
         users: [
           {
-            customData: { avatar_color: 'red' },
+            customData: { avatar_color: 'pink' },
             id: 'akula',
             name: 'Akula',
           },
